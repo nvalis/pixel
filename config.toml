@@ -18,11 +18,25 @@ name = "logo"
 file = "images/logo.png"
 startx = 842
 starty = 992
-priority = 1
+priority = 3
 
 [[structure]]
 name = "md7h"
 file = "images/md7h.png"
 startx = 841
 starty = 999
+priority = 3
+
+[[structure]]
+name = "n7"
+file = "images/N7.png"
+startx = 802
+starty = 986
+priority = 1
+
+[[structure]]
+name = "eminem"
+file = "images/eminem.png"
+startx = 855
+starty = 991
 priority = 1
