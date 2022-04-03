@@ -24,5 +24,5 @@ priority = 1
 name = "md7h"
 file = "images/md7h.png"
 startx = 841
-starty = 1000
+starty = 999
 priority = 1
